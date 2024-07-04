@@ -1,0 +1,2 @@
+Cita{nombreCliente='olga', servicio='manicure', fecha='12/12/2012', hora='12:12'}
+Cita{nombreCliente='Maria', servicio='pedicure', fecha='07/07/2024', hora='12:00'}
